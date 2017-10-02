@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 1715281838,
+  "duration": 2933121296,
   "status": "passed"
 });
 formatter.background({
@@ -37,7 +37,7 @@ formatter.match({
   "location": "Steps.open_url(String)"
 });
 formatter.result({
-  "duration": 3431735266,
+  "duration": 4832032376,
   "status": "passed"
 });
 formatter.match({
@@ -50,7 +50,7 @@ formatter.match({
   "location": "Steps.select_shop(String)"
 });
 formatter.result({
-  "duration": 56173004149,
+  "duration": 79786248929,
   "status": "passed"
 });
 formatter.scenario({
@@ -144,7 +144,7 @@ formatter.match({
   "location": "Steps.click_on_category(String)"
 });
 formatter.result({
-  "duration": 53560005637,
+  "duration": 50241558572,
   "status": "passed"
 });
 formatter.match({
@@ -157,14 +157,14 @@ formatter.match({
   "location": "Steps.search_for_word(String)"
 });
 formatter.result({
-  "duration": 6127046022,
+  "duration": 6046255164,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.filter_search_results(DataTable)"
 });
 formatter.result({
-  "duration": 57699144338,
+  "duration": 57838759840,
   "status": "passed"
 });
 formatter.match({
@@ -177,7 +177,7 @@ formatter.match({
   "location": "Steps.click_on_item(String)"
 });
 formatter.result({
-  "duration": 12872653541,
+  "duration": 19238414692,
   "status": "passed"
 });
 formatter.match({
@@ -190,21 +190,21 @@ formatter.match({
   "location": "Steps.select_the_size(String)"
 });
 formatter.result({
-  "duration": 2713574313,
+  "duration": 2980225591,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.add_to_shopping_basket()"
 });
 formatter.result({
-  "duration": 275231780,
+  "duration": 274066036,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_back()"
 });
 formatter.result({
-  "duration": 2287453165,
+  "duration": 2381321648,
   "status": "passed"
 });
 formatter.match({
@@ -217,7 +217,7 @@ formatter.match({
   "location": "Steps.click_on_item(String)"
 });
 formatter.result({
-  "duration": 8740938218,
+  "duration": 25539635964,
   "status": "passed"
 });
 formatter.match({
@@ -230,21 +230,21 @@ formatter.match({
   "location": "Steps.select_the_size(String)"
 });
 formatter.result({
-  "duration": 3439859098,
+  "duration": 3420388433,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.add_to_shopping_basket()"
 });
 formatter.result({
-  "duration": 271144525,
+  "duration": 270131777,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_shopping_basket()"
 });
 formatter.result({
-  "duration": 5204693887,
+  "duration": 5375733252,
   "status": "passed"
 });
 formatter.match({
@@ -257,11 +257,11 @@ formatter.match({
   "location": "Steps.both_items_should_be_displayed(Integer)"
 });
 formatter.result({
-  "duration": 2057563649,
+  "duration": 2111585156,
   "status": "passed"
 });
 formatter.after({
-  "duration": 26828,
+  "duration": 107747734,
   "status": "passed"
 });
 });

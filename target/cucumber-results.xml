@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="216.569356">
-<testcase classname="As​ a client​ I would​ like​ to​ add​ products​ to​ the​ shopping​ basket." name="As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="216.569356">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="263.377226">
+<testcase classname="As​ a client​ I would​ like​ to​ add​ products​ to​ the​ shopping​ basket." name="As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="263.377226">
 <system-out><![CDATA[Given I open 'https://www.zalando.com'......................................passed
 And I want to start shoping using 'Zalando.UK'..............................passed
 Given I click on 'Kids' wear................................................passed

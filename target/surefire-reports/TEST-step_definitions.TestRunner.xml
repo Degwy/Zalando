@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="step_definitions.TestRunner" time="217.273" tests="15" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="step_definitions.TestRunner" time="264.349" tests="15" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="cucumber.options" value="Features/"/>
@@ -60,9 +60,9 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="Given I open &apos;https://www.zalando.com&apos;" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.001"/>
-  <testcase name="And I want to start shoping using &apos;Zalando.UK&apos;" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
-  <testcase name="Given I click on &apos;Kids&apos; wear" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.001"/>
+  <testcase name="Given I open &apos;https://www.zalando.com&apos;" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.002"/>
+  <testcase name="And I want to start shoping using &apos;Zalando.UK&apos;" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.001"/>
+  <testcase name="Given I click on &apos;Kids&apos; wear" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
   <testcase name="And I search for the word &apos;babies&apos;" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
   <testcase name="And I want to make the following filters on search results:" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
   <testcase name="And I click on item number 1" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
@@ -71,8 +71,8 @@
   <testcase name="And I add the item to shopping basket" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
   <testcase name="And I add the item to shopping basket" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
   <testcase name="And I click back" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
-  <testcase name="And I click on item number 3" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
+  <testcase name="And I click on item number 3" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.001"/>
   <testcase name="When I open the shopping basket" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
   <testcase name="Then I should see 2 items in the shopping basket" classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0"/>
-  <testcase name="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.002"/>
+  <testcase name="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." classname="Scenario: As​ a client​ I would​ like​ to​ add two​ products​ to​ the​ shopping​ basket." time="0.109"/>
 </testsuite>

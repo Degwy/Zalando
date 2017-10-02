@@ -50,8 +50,7 @@ public class Selenium_helper
 	{
 		default_wait();
 		driver.findElement(By.linkText(element)).click();
-	}
-	
+	}	
 	
 	public String get_text_of_xpath_element(String element)
 	{
@@ -75,6 +74,4 @@ public class Selenium_helper
 		send_key.sendKeys(key);
 		send_key.submit();
 	}
-
-   
 }

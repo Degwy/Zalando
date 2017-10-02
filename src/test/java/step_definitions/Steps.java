@@ -30,7 +30,7 @@ public class Steps extends Selenium_helper
 	@After
 	public void tearDown()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 	
 	@Given("^(?:|I) open '(.*?)'$")
@@ -96,6 +96,7 @@ public class Steps extends Selenium_helper
 		click_xpath_element("//div[text()='Choose your size']");
 		click_xpath_element("//text()[.='"+size+"']/ancestor::div[1]");
 	}
+	
 	@And("^(?:|I) add the item to shopping basket$")
 	public void add_to_shopping_basket() 
 	{

@@ -12,7 +12,7 @@ Sample test project using Cucumber, Maven, Junit.
 * Navigate project directory where pom.xml file was placed.
 * Write the command:
 ```
-mvn clean test -Dcucumber.options="src/test/java/features/"
+mvn clean test -Dcucumber.options="Features/"
 ```
 
 
