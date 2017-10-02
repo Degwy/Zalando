@@ -5,12 +5,12 @@
       {
         "name": "I click on \u0027Kids\u0027 wear",
         "aggregatedDurations": {
-          "average": 5.307014534,
-          "median": 5.307014534
+          "average": 53.560005637,
+          "median": 53.560005637
         },
         "durations": [
           {
-            "duration": 5.307014534,
+            "duration": 53.560005637,
             "location": "Add_Items_to_Bag.feature:8"
           }
         ]
@@ -23,12 +23,12 @@
       {
         "name": "I search for the word \u0027babies\u0027",
         "aggregatedDurations": {
-          "average": 6.642068329,
-          "median": 6.642068329
+          "average": 6.127046022,
+          "median": 6.127046022
         },
         "durations": [
           {
-            "duration": 6.642068329,
+            "duration": 6.127046022,
             "location": "Add_Items_to_Bag.feature:9"
           }
         ]
@@ -41,16 +41,16 @@
       {
         "name": "I select \u00273K\u0027 size",
         "aggregatedDurations": {
-          "average": 1.590703255,
-          "median": 1.590703255
+          "average": 3.076716705,
+          "median": 3.076716705
         },
         "durations": [
           {
-            "duration": 1.611827085,
+            "duration": 2.713574313,
             "location": "Add_Items_to_Bag.feature:13"
           },
           {
-            "duration": 1.569579426,
+            "duration": 3.439859098,
             "location": "Add_Items_to_Bag.feature:17"
           }
         ]
@@ -63,16 +63,16 @@
       {
         "name": "I add the item to shopping basket",
         "aggregatedDurations": {
-          "average": 0.287655077,
-          "median": 0.287655077
+          "average": 0.273188152,
+          "median": 0.273188152
         },
         "durations": [
           {
-            "duration": 0.285271128,
+            "duration": 0.27523178,
             "location": "Add_Items_to_Bag.feature:14"
           },
           {
-            "duration": 0.290039026,
+            "duration": 0.271144525,
             "location": "Add_Items_to_Bag.feature:18"
           }
         ]
@@ -85,12 +85,12 @@
       {
         "name": "I open the shopping basket",
         "aggregatedDurations": {
-          "average": 2.395340786,
-          "median": 2.395340786
+          "average": 5.204693887,
+          "median": 5.204693887
         },
         "durations": [
           {
-            "duration": 2.395340786,
+            "duration": 5.204693887,
             "location": "Add_Items_to_Bag.feature:19"
           }
         ]
@@ -103,12 +103,12 @@
       {
         "name": "I click on item number 1",
         "aggregatedDurations": {
-          "average": 8.819299614,
-          "median": 8.819299614
+          "average": 12.872653541,
+          "median": 12.872653541
         },
         "durations": [
           {
-            "duration": 8.819299614,
+            "duration": 12.872653541,
             "location": "Add_Items_to_Bag.feature:12"
           }
         ]
@@ -116,12 +116,12 @@
       {
         "name": "I click on item number 3",
         "aggregatedDurations": {
-          "average": 8.272258455,
-          "median": 8.272258455
+          "average": 8.740938218,
+          "median": 8.740938218
         },
         "durations": [
           {
-            "duration": 8.272258455,
+            "duration": 8.740938218,
             "location": "Add_Items_to_Bag.feature:16"
           }
         ]
@@ -134,12 +134,12 @@
       {
         "name": "I want to start shoping using \u0027Zalando.UK\u0027",
         "aggregatedDurations": {
-          "average": 10.806213792,
-          "median": 10.806213792
+          "average": 56.173004149,
+          "median": 56.173004149
         },
         "durations": [
           {
-            "duration": 10.806213792,
+            "duration": 56.173004149,
             "location": "Add_Items_to_Bag.feature:5"
           }
         ]
@@ -152,12 +152,12 @@
       {
         "name": "I want to make the following filters on search results:",
         "aggregatedDurations": {
-          "average": 57.756264399,
-          "median": 57.756264399
+          "average": 57.699144338,
+          "median": 57.699144338
         },
         "durations": [
           {
-            "duration": 57.756264399,
+            "duration": 57.699144338,
             "location": "Add_Items_to_Bag.feature:10"
           }
         ]
@@ -170,12 +170,12 @@
       {
         "name": "I click back",
         "aggregatedDurations": {
-          "average": 2.180486027,
-          "median": 2.180486027
+          "average": 2.287453165,
+          "median": 2.287453165
         },
         "durations": [
           {
-            "duration": 2.180486027,
+            "duration": 2.287453165,
             "location": "Add_Items_to_Bag.feature:15"
           }
         ]
@@ -188,12 +188,12 @@
       {
         "name": "I open \u0027https://www.zalando.com\u0027",
         "aggregatedDurations": {
-          "average": 1.995898817,
-          "median": 1.995898817
+          "average": 3.431735266,
+          "median": 3.431735266
         },
         "durations": [
           {
-            "duration": 1.995898817,
+            "duration": 3.431735266,
             "location": "Add_Items_to_Bag.feature:4"
           }
         ]
@@ -206,12 +206,12 @@
       {
         "name": "I should see 2 items in the shopping basket",
         "aggregatedDurations": {
-          "average": 0.143198782,
-          "median": 0.143198782
+          "average": 2.057563649,
+          "median": 2.057563649
         },
         "durations": [
           {
-            "duration": 0.143198782,
+            "duration": 2.057563649,
             "location": "Add_Items_to_Bag.feature:20"
           }
         ]
